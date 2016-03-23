@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LocateEatRepeat</string>
+    <string name="consumer_key">bUKSLUuujzpHnVJx0Q8ykQ</string>
+    <string name="consumer_secret">K3jiXAmnHA09Y0Fs4j-yX0pjAPQ</string>
+    <string name="token">qJwpGe05TdwCfoX0a6yAJI2LsrmBhZaQ</string>
+    <string name="token_secret">HqLCy82QrWeW8TO4OGS8VSgWrTY</string>
 </resources>
